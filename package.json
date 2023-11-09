@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://SimonAstani.github.io/personal-site",
+  "homepage": "https://SimonAstani.github.io/simon-personal",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SimonAstani/personal-site.git"
+    "url": "https://github.com/SimonAstani/simon-personal.git"
   },
   "engines": {
     "node": ">=16.x"
@@ -15,7 +15,7 @@
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build && react-snap",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "test": "npx jest"
   },
