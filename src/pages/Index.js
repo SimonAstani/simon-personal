@@ -13,8 +13,7 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">Suman Astani</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            Software Developer looking for full time opportunties.
           </p>
         </div>
       </header>
