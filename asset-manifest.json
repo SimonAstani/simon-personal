@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/simon-personal/static/css/main.d564fd31.css",
+    "main.js": "/simon-personal/static/js/main.9fe35576.js",
+    "static/js/964.f75bf317.chunk.js": "/simon-personal/static/js/964.f75bf317.chunk.js",
+    "static/js/117.19b513bd.chunk.js": "/simon-personal/static/js/117.19b513bd.chunk.js",
+    "static/js/478.5a454da3.chunk.js": "/simon-personal/static/js/478.5a454da3.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/simon-personal/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.a24bc385.chunk.js": "/simon-personal/static/js/161.a24bc385.chunk.js",
+    "static/js/18.f09ed55a.chunk.js": "/simon-personal/static/js/18.f09ed55a.chunk.js",
+    "static/js/191.3be008c9.chunk.js": "/simon-personal/static/js/191.3be008c9.chunk.js",
+    "static/js/209.04592873.chunk.js": "/simon-personal/static/js/209.04592873.chunk.js",
+    "static/js/625.9a6d6052.chunk.js": "/simon-personal/static/js/625.9a6d6052.chunk.js",
+    "static/js/745.214e2a63.chunk.js": "/simon-personal/static/js/745.214e2a63.chunk.js",
+    "static/media/about.md": "/simon-personal/static/media/about.14e223164c22aec8ea6f.md",
+    "index.html": "/simon-personal/index.html",
+    "main.d564fd31.css.map": "/simon-personal/static/css/main.d564fd31.css.map",
+    "main.9fe35576.js.map": "/simon-personal/static/js/main.9fe35576.js.map",
+    "964.f75bf317.chunk.js.map": "/simon-personal/static/js/964.f75bf317.chunk.js.map",
+    "117.19b513bd.chunk.js.map": "/simon-personal/static/js/117.19b513bd.chunk.js.map",
+    "478.5a454da3.chunk.js.map": "/simon-personal/static/js/478.5a454da3.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/simon-personal/static/js/922.950c5cf1.chunk.js.map",
+    "161.a24bc385.chunk.js.map": "/simon-personal/static/js/161.a24bc385.chunk.js.map",
+    "18.f09ed55a.chunk.js.map": "/simon-personal/static/js/18.f09ed55a.chunk.js.map",
+    "191.3be008c9.chunk.js.map": "/simon-personal/static/js/191.3be008c9.chunk.js.map",
+    "209.04592873.chunk.js.map": "/simon-personal/static/js/209.04592873.chunk.js.map",
+    "745.214e2a63.chunk.js.map": "/simon-personal/static/js/745.214e2a63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d564fd31.css",
+    "static/js/main.9fe35576.js"
+  ]
+}
