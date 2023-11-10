@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -12,18 +13,15 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Suman Astani</h2>
+        <p><a href="mailto:sumanastani@gmail.com">sumanastani@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hi, I&apos;m Suman. I am a <a href="https://www.bgsu.edu/">BGSU</a> graduate. Previously, I have worked in accounting
+        software and gain knowledge of system architecture and design patterns. A level head for problem-solving combined with a passion for innovative and fresh ideas
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Cloned from Michael D&apos;Angelo <Link to="https://github.com/mldangelo/personal-site"> mldangelo github</Link>.</p>
     </section>
   </section>
 );
