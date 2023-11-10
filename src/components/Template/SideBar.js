@@ -20,8 +20,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Suman. I am a <a href="https://www.bgsu.edu/">BGSU</a> graduate. Previously, I have worked in accounting
-        software and gain knowledge of system architecture and design patterns. A level head for problem-solving combined with a passion for innovative and fresh ideas
+      <p>Hi, I&apos;m Suman. I am a <a href="https://www.bgsu.edu/">BGSU</a> graduate. I have worked in accounting
+        software and gain knowledge of system architecture and design patterns. I am looking for a chanllenging software develoepr roles.
       </p>
       <ul className="actions">
         <li>

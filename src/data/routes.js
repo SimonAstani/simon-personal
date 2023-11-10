@@ -1,7 +1,8 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    // eslint-disable-next-line quotes
+    label: "Suman Astani",
     path: '/',
   },
   {
@@ -13,11 +14,7 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'Stats',
+    label: 'Reference',
     path: '/stats',
   },
   {
