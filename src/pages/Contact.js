@@ -12,11 +12,15 @@ const Contact = () => (
     <article className="post" id="contact">
       <header>
         <div className="title">
-          <h2><Link to="/contact">Contact</Link></h2>
+          <h2>
+            <Link to="/contact">Contact</Link>
+          </h2>
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to get in touch. You can email me at: sumanastani@gmail.com </p>
+        <p>
+          Feel free to get in touch. You can email me at: sumanastani@gmail.com{' '}
+        </p>
 
         <p>Reach me at: 4193786383</p>
       </div>

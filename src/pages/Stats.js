@@ -8,28 +8,24 @@ const About = () => {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
-    import('../data/reference.md')
-      .then((res) => {
-        fetch(res.default)
-          .then((r) => r.text())
-          .then(setMarkdown);
-      });
+    import('../data/reference.md').then((res) => {
+      fetch(res.default)
+        .then((r) => r.text())
+        .then(setMarkdown);
+    });
   });
 
   return (
-    <Main
-      title="About"
-      description="Learn about Michael D'Angelo"
-    >
+    <Main title="About" description="Learn about Michael D'Angelo">
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2><Link to="/about">Reference</Link></h2>
+            <h2>
+              <Link to="/about">Reference</Link>
+            </h2>
           </div>
         </header>
-        <Markdown>
-          {markdown}
-        </Markdown>
+        <Markdown>{markdown}</Markdown>
       </article>
     </Main>
   );

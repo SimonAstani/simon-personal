@@ -58,8 +58,8 @@ const work = [
     highlights: [
       'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
       'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
+      'Set and communicated team priorities that supported the broader organization\'s goals. Aligned strategy, processes, and decision-making across teams.',
+      'Set clear expectations with individuals based on their level and role and aligned them to the broader organization\'s goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.',
       'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
     ],
   },

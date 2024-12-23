@@ -14,25 +14,45 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Suman Astani</h2>
-        <p><a href="mailto:sumanastani@gmail.com">sumanastani@gmail.com</a></p>
+        <p>
+          <a href="mailto:sumanastani@gmail.com">sumanastani@gmail.com</a>
+        </p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Suman. I am a <a href="https://www.bgsu.edu/">BGSU</a> graduate in Computer Science major. I have worked in accounting
-        software and gain knowledge of system architecture and design patterns. I am looking for a challenging software developer roles.
+      <p>
+        Hi, I&apos;m Suman. I am a <a href="https://www.bgsu.edu/">BGSU</a>{' '}
+        graduate in Computer Science major. I have worked in accounting software
+        and gain knowledge of system architecture and design patterns. I am
+        looking for a challenging software developer roles.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? (
+            <Link to="/resume" className="button">
+              Learn More
+            </Link>
+          ) : (
+            <Link to="/about" className="button">
+              About Me
+            </Link>
+          )}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Cloned from Michael D&apos;Angelo <Link to="https://github.com/mldangelo/personal-site"> mldangelo github</Link>.</p>
+      <p className="copyright">
+        &copy; Cloned from Michael D&apos;Angelo{' '}
+        <Link to="https://github.com/mldangelo/personal-site">
+          {' '}
+          mldangelo github
+        </Link>
+        .
+      </p>
     </section>
   </section>
 );

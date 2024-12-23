@@ -3,7 +3,11 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
-import { faBehance, faMedium, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import {
+  faBehance,
+  faMedium,
+  faYoutube,
+} from '@fortawesome/free-brands-svg-icons';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
