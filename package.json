@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://SimonAstani.github.io/simon-personal",
+  "homepage": "http://sumanastani.com.np",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -48,7 +48,7 @@
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "^7.33.2",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.2.0",
     "react-snap": "^1.23.0",
     "rimraf": "^5.0.5",
     "sass": "^1.69.5",
