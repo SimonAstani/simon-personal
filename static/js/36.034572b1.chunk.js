@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[36],{3036:function(e,s,t){e.exports=t.p+"static/media/resume.2f542397089896e6c971.md"}}]);
